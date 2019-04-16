@@ -306,7 +306,7 @@ class App extends Component {
         </div>
 
         <footer style={{textAlign: "center",padding: "1.25em 1em", borderTop: "1px solid black", fontSize: "1.25em"}}>
-          Link to github repo: <a style={{textDecoration: "none", color: "blue"}} href="https://github.com/lalitjain98/drum-machine" rel="noopener noreferrer" target="_blank">github.com/lalitjain98/js-calculator</a>
+          Link to github repo: <a style={{textDecoration: "none", color: "blue"}} href="https://github.com/lalitjain98/js-calculator" rel="noopener noreferrer" target="_blank">github.com/lalitjain98/js-calculator</a>
         </footer>
 
       </Fragment>
